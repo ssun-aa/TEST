@@ -26,7 +26,7 @@
 <strong>1. Main.js 구현하기</strong>
   - path "/" 에 아래의 그림과 동일한 화면이 나오도록 Main.js 파일을 구현해 주세요.
   - 화면에 필요한 그림의 url과 동물 이름은 [여기](https://script.google.com/macros/s/AKfycbyPyy60E8nj7nj9888cDkftRi65sbetnduLF-rnP0un3zZak6U/exec?delay=2)를 호출하시면 됩니다 ("/" 에 접속시 [여기](https://script.google.com/macros/s/AKfycbyPyy60E8nj7nj9888cDkftRi65sbetnduLF-rnP0un3zZak6U/exec?delay=2) 를 호출하도록 코드 작성). 
-  - (가점 요소) 위 API를 호출해서 데이터를 불러오는데 2~3 초의 delay가 생깁니다. API가 호출되는 동안 데이터가 로딩되고 있다는 로딩 표시를 구현하세요.
+  - (가점 요소) 위 API를 호출해서 데이터를 불러오는데 2~3 초의 delay가 생깁니다. API가 호출되는 동안 데이터가 로딩되고 있다는 로딩 표시를 구현하세요. 로딩 표시가 어떤 형태든 상관없습니다.
   ![](./main.png)
   
 <strong>2. Main.js 기능 넣기</strong>
