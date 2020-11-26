@@ -43,7 +43,7 @@
 
 ## Available Scripts
 
-본 프로젝트는 [Create React App](https://github.com/facebook/create-react-app) 를 기반으로 만들어 졌습니다. 그렇기 때문에 기본 yarn 명령가 작동됩니다
+본 프로젝트는 [Create React App](https://github.com/facebook/create-react-app) 를 기반으로 만들어 졌습니다. 그렇기 때문에 기본 yarn 명령어가 작동됩니다
 
 ### `yarn start`
 
