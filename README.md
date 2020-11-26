@@ -35,7 +35,7 @@
   ![](./main-func.png)
 
 <strong>3. Classification.js 구현하기</strong>
-  - path "/" 에서 '고양이', '강아지' 그림에 좋아요를 누르고 '병아리', '토끼' 그림에 싫어요를 누른 뒤 '좋아하는 동물들 나누기' 버튼을 누르면 path '/classification' 에 아래와 같은 그림이 나오도록 
+  - path "/" 에서 '고양이', '강아지' 그림에 좋아요를 누르고 '병아리', '토끼' 그림에 싫어요를 누른 뒤 '좋아하는 동물들 나누기' 버튼을 누르면 path '/classification' 에 아래와 같은 그림이 나오도록 Classification.js 를 구현해주세요.
   ![](./classification.png)
 
 
