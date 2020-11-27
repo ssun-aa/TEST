@@ -8,6 +8,7 @@
 - 필요 시 react-redux, redux-thunk, redux-saga 패키지 사용이 가능합니다.
 - css, less, sass, styled-component 어떤걸 사용해도 무방합니다.
 - axios 와 같은 API 호출에 필요한 패키지는 사용 가능합니다.
+- immutability를 위한 immer과 같은 패키지는 사용 가능합니다.
 - 위와 관련한 패키지를 제외한 패키지는 사용을 금합니다.
 - 최대한 화면에 명시되어 있는 것과 비슷하게 구현해주시면 됩니다.
 
