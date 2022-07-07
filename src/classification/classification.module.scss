@@ -1,0 +1,43 @@
+.wrap {
+  display: block;
+  margin: 0 auto;
+  padding-top: 60px;
+  width: 1100px;
+  text-align: center;
+  .main {
+    width: 100%;
+    display: flex;
+
+    .liked {
+      padding: 0 120px 100px 120px;
+      border: 2px solid #006ebe;
+      margin-right: 15px;
+      width: 50%;
+
+      h2 {
+        color: #006ebe;
+        margin-top: 47px;
+      }
+
+      img {
+        margin-top: 30px;
+      }
+    }
+
+    .hated {
+      padding: 0 120px 100px 120px;
+      margin-left: 15px;
+      width: 50%;
+      border: 2px solid #d74b00;
+
+      h2 {
+        color: #d74b00;
+        margin-top: 47px;
+      }
+
+      img {
+        margin-top: 30px;
+      }
+    }
+  }
+}

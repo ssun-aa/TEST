@@ -1,0 +1,30 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  margin: 0 30px 30px 0;
+
+  .buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 15px;
+
+    button {
+      color: #323232;
+      background-color: transparent;
+      border: 1px #a5a5a5 solid;
+      width: 135px;
+      height: 45px;
+    }
+
+    .liked {
+      color: #ffffff;
+      background-color: #006ebe;
+    }
+
+    .hated {
+      color: #ffffff;
+      background-color: #d74b00;
+    }
+  }
+}
